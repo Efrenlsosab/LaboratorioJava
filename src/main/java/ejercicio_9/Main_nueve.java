@@ -9,7 +9,5 @@ public class Main_nueve {
         textoA = textoA.replace("a","e");
         System.out.println("ingrese una frase: ");
         System.out.println(textoA + ", " + dato.nextLine());
-
-
     }
 }
