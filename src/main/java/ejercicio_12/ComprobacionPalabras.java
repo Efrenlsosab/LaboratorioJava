@@ -1,4 +1,4 @@
-package main.java.ejercicio_11;
+package main.java.ejercicio_12;
 
 import java.net.SocketTimeoutException;
 
@@ -14,7 +14,7 @@ public class ComprobacionPalabras {
         } else if (a.compareTo(b) == -1) {
             System.out.println("El tamaño de la segunda palabra es mayor");
         } else {
-            System.out.println("Son diferentes");
+            System.out.println("Tienen letras diferentes");
         }
 
     }
